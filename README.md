@@ -1,5 +1,7 @@
 # input-table-search
 
+![avatar](/src/assets/scrollbar.gif)
+
 ## Project setup
 ```
 npm install
