@@ -1,16 +1,19 @@
 <template>
   <div id="app">
-    <Test />
+<!--    <Test />-->
+    <router-view/>
   </div>
 </template>
 
 <script>
-import Test from './components/Test.vue'
+// import Test from './components/Test.vue'
+// import RouterTest from './components/RouterTest'
 
 export default {
   name: 'App',
   components: {
-    Test,
+    // Test,
+    // RouterTest
   }
 }
 </script>
